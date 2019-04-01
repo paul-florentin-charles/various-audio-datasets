@@ -14,3 +14,8 @@ Except for the *huge* ir dataset, which is a free dataset you can get on Wilkins
 
 Likewise, the *big* ir dataset is EchoThief, located [here](http://www.echothief.com/downloads/).
 
+## Training data 
+
+Available in directories, they were made using [dereverbation-ml](https://gitgud.io/polochinoc/dereverberation-ml).
+
+*data* corresponds to the notes, and *labels* to the notes convolved with IRs.
