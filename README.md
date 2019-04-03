@@ -16,6 +16,6 @@ Likewise, the *big* ir dataset is EchoThief, located [here](http://www.echothief
 
 ## Training data 
 
-Available in directories, they were made using [dereverbation-ml](https://gitgud.io/polochinoc/dereverberation-ml).
+Available in *npz* files at the root, they were made using [dereverbation-ml](https://gitgud.io/polochinoc/dereverberation-ml).
 
-*data* corresponds to the notes, and *labels* to the notes convolved with IRs.
+Each data file contains both data and labels.
